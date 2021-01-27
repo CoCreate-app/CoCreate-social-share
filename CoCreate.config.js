@@ -9,7 +9,7 @@ module.exports = {
     sources: [{
             path: "./docs/index.html",
             collection: "files",
-            document_id: "",
+            document_id: "6011fda120b8221182666b50",
             key: "html",
             data:{
                 name: "Social Share Doc",
@@ -19,10 +19,10 @@ module.exports = {
    
     crud: [{
             collection: "routes",
-            document_id: "",
+            document_id: "6011fd7f20b8221182666b4d",
             data:{
                 collection: "files",
-                document_id: "",
+                document_id: "6011fda120b8221182666b50",
                 name: "html",
                 domains: ["cocreate.app", "server.cocreate.app", "ws.cocreate.app"],
                 route: "/docs/social-share",
