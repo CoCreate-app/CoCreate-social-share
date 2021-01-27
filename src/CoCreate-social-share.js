@@ -79,3 +79,4 @@ const CoCreateSocialShare = {
 }
 
 CoCreateSocialShare.init();
+export default CoCreateSocialShare;
