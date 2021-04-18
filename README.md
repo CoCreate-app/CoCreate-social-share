@@ -9,7 +9,7 @@ A simple social-share component in vanilla javascript. Easily configured using H
 
 ![CoCreate-social-share](https://cdn.cocreate.app/docs/CoCreate-social-share.gif)
 
-## [Docs & Demo](https://cocreate.app/docs/clone)
+## [Docs & Demo](https://cocreate.app/docs/social-share)
 
 For a complete guide and working demo refer to the [doumentation](https://cocreate.app/docs/social-share)
 
