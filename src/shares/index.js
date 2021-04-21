@@ -13,7 +13,7 @@ import delicious from "./delicious";
 
 const share = (el, data) => {
     var network = {};
-    switch (el.dataset['network']) {
+    switch (el.dataset['share_network']) {
         case 'facebook': network['url'] = facebook(data); break;
         case 'twitter': network['url'] = twitter(data); break;
         case 'google': network['url'] = google(data); break;

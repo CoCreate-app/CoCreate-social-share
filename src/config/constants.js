@@ -1,9 +1,9 @@
-export const selectorClick = '[data-network]';
+export const selectorClick = '[data-share_network]';
 export const selectorDiv = 'div[data-share_network]';
 export const options = 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,';
 export const shareLists = {
     google: 'https://plus.google.com/share?url=',
-    facebook: 'http://www.facebook.com/sharer.php?s=100&amp;p[title]=',
+    facebook: 'https://www.facebook.com/sharer/sharer.php?display=popup&u=',
     twitter: 'https://twitter.com/intent/tweet?text=',
     tumblr: 'http://www.tumblr.com/share?s=&v=3&u=',
     pinterest: 'https://www.pinterest.com/pin/create/button/?description=',
