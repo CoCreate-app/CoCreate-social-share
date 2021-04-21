@@ -19,8 +19,8 @@ const CoCreateSocialShare = {
 	    el.addEventListener("click", function(event){ 
 
 			// Select Div element with dataset to share
-	        event.preventDefault()
-	        let container = el.closest(selectorDiv)
+			event.preventDefault()
+			let container = el.closest(selectorDiv)
 
 			// Get data to share from attributes
 			const data = getData(el, document, container);

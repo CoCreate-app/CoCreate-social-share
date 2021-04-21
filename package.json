@@ -23,7 +23,6 @@
   "publishConfig": {
     "access": "public"
   },
-  "type": "module",
   "scripts": {
     "start": "npx webpack --config webpack.config.js",
     "build": "NODE_ENV=production npx webpack --config webpack.config.js",
