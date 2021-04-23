@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.0.3...v1.0.4) (2021-04-23)
+
+
+### Bug Fixes
+
+* readme and documentation. Removed securitykeys ([bb7d6e8](https://github.com/CoCreate-app/CoCreate-social-share/commit/bb7d6e84bccd42722c5db93f93021a5700a00013))
+
 ## [1.0.3](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.0.2...v1.0.3) (2021-04-22)
 
 
