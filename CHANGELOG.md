@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.0.6...v1.0.7) (2021-04-27)
+
+
+### Bug Fixes
+
+* add host in docs ([0905000](https://github.com/CoCreate-app/CoCreate-social-share/commit/09050008944d3d73b7df0ac8ee42483b1d3579f1))
+
 ## [1.0.6](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.0.5...v1.0.6) (2021-04-27)
 
 
