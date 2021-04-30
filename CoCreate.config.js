@@ -10,7 +10,7 @@ module.exports = {
             "path": "./docs/index.html",
             "collection": "files",
             "document_id": "6011fda120b8221182666b50",
-            "key": "html",
+            "key": "src",
             "data":{
                 "name": "social-share Doc",
                 "domains": ["cocreate.app", "server.cocreate.app", "ws.cocreate.app"],
