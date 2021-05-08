@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.0.7...v1.0.8) (2021-05-08)
+
+
+### Bug Fixes
+
+* add css auto parse and save to docs. ([65b7819](https://github.com/CoCreate-app/CoCreate-social-share/commit/65b781944bd98e80cc2a590ddf85850ee32c2d91))
+
 ## [1.0.7](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.0.6...v1.0.7) (2021-04-27)
 
 
