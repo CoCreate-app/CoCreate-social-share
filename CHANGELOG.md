@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.0.8...v1.0.9) (2021-06-16)
+
+
+### Bug Fixes
+
+* added header for seo ([27fbc6b](https://github.com/CoCreate-app/CoCreate-social-share/commit/27fbc6ba1c04e0e1871ee8b9028c57af44b0adb6))
+
 ## [1.0.8](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.0.7...v1.0.8) (2021-05-08)
 
 
