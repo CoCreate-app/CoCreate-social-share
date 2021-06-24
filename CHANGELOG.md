@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.0.9...v1.0.10) (2021-06-24)
+
+
+### Bug Fixes
+
+* update all [@cocreate](https://github.com/cocreate) to use latest versions ([12aa8a9](https://github.com/CoCreate-app/CoCreate-social-share/commit/12aa8a91c381843c0da3785376b94c6e10d10497))
+
 ## [1.0.9](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.0.8...v1.0.9) (2021-06-16)
 
 
