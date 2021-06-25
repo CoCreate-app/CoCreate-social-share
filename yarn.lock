@@ -876,7 +876,7 @@
     "@cocreate/docs" "^1.0.0"
     "@cocreate/socket-client" "^1.0.0"
 
-"@cocreate/docs@^1.0.0":
+"@cocreate/docs@^1.0.0", "@cocreate/docs@^1.1.14":
   version "1.1.14"
   resolved "https://registry.yarnpkg.com/@cocreate/docs/-/docs-1.1.14.tgz#992e6e2e2d9b848e3ba65ff4f4abff07dc3ec6ab"
   integrity sha512-MBSzKticJG8bzfqdN/A1jyLaz5k140S3O6pcN67C1muYfqUpZGxA8Fb4MGZ8QlKjx90De8GgHvZ6XP/x3I4FXw==
@@ -888,7 +888,7 @@
     parse-html-comments "^1.3.1"
     ws "^7.3.1"
 
-"@cocreate/hosting@^1.0.0":
+"@cocreate/hosting@^1.0.0", "@cocreate/hosting@^1.1.4":
   version "1.1.4"
   resolved "https://registry.yarnpkg.com/@cocreate/hosting/-/hosting-1.1.4.tgz#a8dfd8e00bdab2e00150bc3e046959e9dde5423f"
   integrity sha512-d6j7AfwUeX9ocx9w3PSLPtLVboSYXDux+7BrfekfKg0xQdU3kk4EDqpZzWEa48UhAHJB2Wa8wh9NODMnXyGQ5w==
