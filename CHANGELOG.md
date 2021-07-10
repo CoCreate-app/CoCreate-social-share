@@ -1,3 +1,10 @@
+## [1.0.16](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.0.15...v1.0.16) (2021-07-10)
+
+
+### Bug Fixes
+
+* gitignore all logs ([dad8f03](https://github.com/CoCreate-app/CoCreate-social-share/commit/dad8f03b13e4153205a2c17a282379eceac62de0))
+
 ## [1.0.15](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.0.14...v1.0.15) (2021-07-07)
 
 
