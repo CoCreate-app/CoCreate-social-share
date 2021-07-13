@@ -1,3 +1,11 @@
+## [1.0.17](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.0.16...v1.0.17) (2021-07-13)
+
+
+### Bug Fixes
+
+* add yarn lockfile to git ignore ([c3f531c](https://github.com/CoCreate-app/CoCreate-social-share/commit/c3f531c74129f9a0094002d856137580da11a981))
+* remove yarn.lock ([ef79d55](https://github.com/CoCreate-app/CoCreate-social-share/commit/ef79d55698bf5402201a3b786508f50c403bb755))
+
 ## [1.0.16](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.0.15...v1.0.16) (2021-07-10)
 
 
