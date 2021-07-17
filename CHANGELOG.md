@@ -1,3 +1,11 @@
+## [1.0.19](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.0.18...v1.0.19) (2021-07-17)
+
+
+### Bug Fixes
+
+* init and update demos scripts ([7d7d7f8](https://github.com/CoCreate-app/CoCreate-social-share/commit/7d7d7f808ac7522634e97fb42310cd75f56c2ae0))
+* workflows ([66b3c3e](https://github.com/CoCreate-app/CoCreate-social-share/commit/66b3c3e921e2570f9d2ea017edcc5b53bf1e3e45))
+
 ## [1.0.18](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.0.17...v1.0.18) (2021-07-14)
 
 
