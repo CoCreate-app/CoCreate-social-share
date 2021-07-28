@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.0.19...v1.1.0) (2021-07-28)
+
+
+### Bug Fixes
+
+* remove data- from fetch, pass and filter ([f23e2d3](https://github.com/CoCreate-app/CoCreate-social-share/commit/f23e2d3589f2d4ae07cfa0e19b639a0805a0f16b))
+
+
+### Features
+
+* add new is{attribute} system and remove data- from attributtes ([4918a8f](https://github.com/CoCreate-app/CoCreate-social-share/commit/4918a8f1418f916dd0a35978eaf45985402bfcbf))
+
 ## [1.0.19](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.0.18...v1.0.19) (2021-07-17)
 
 
