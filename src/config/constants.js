@@ -1,5 +1,5 @@
-export const selectorClick = '[data-share_network]';
-export const selectorDiv = 'div[data-share_network]';
+export const selectorClick = '[share-network]';
+export const selectorDiv = 'div[share-network]';
 export const options = 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,';
 export const shareLists = {
     google: 'https://plus.google.com/share?url=',
