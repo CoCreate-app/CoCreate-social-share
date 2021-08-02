@@ -1,3 +1,12 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.0...v1.1.1) (2021-08-02)
+
+
+### Bug Fixes
+
+* remove data- from attributes ([f90e69f](https://github.com/CoCreate-app/CoCreate-social-share/commit/f90e69f7278b684eddf3fc293bc1d9af2cce9457))
+* removed data- share attributes ([1c78be2](https://github.com/CoCreate-app/CoCreate-social-share/commit/1c78be2a17365477812127b81cf07ab6182a87f3))
+* update data-fullscreen to fullscreen ([b8b2183](https://github.com/CoCreate-app/CoCreate-social-share/commit/b8b2183aaf4bf69f73f7d9c960ca63dc8794590e))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.0.19...v1.1.0) (2021-07-28)
 
 
