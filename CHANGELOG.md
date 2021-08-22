@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.3...v1.1.4) (2021-08-22)
+
+
+### Bug Fixes
+
+* bump package versions ([08bf6aa](https://github.com/CoCreate-app/CoCreate-social-share/commit/08bf6aad3e0b5f8d9017a108343f1dabd5656d11))
+
 ## [1.1.3](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.2...v1.1.3) (2021-08-22)
 
 
