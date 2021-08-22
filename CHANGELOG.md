@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.4...v1.1.5) (2021-08-22)
+
+
+### Bug Fixes
+
+* removed data- from main-content, clone, filter-value_type ([ffd377a](https://github.com/CoCreate-app/CoCreate-social-share/commit/ffd377a51abadc137268e893c4141996595ffac8))
+
 ## [1.1.4](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.3...v1.1.4) (2021-08-22)
 
 
