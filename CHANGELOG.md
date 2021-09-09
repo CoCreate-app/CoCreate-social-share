@@ -1,3 +1,10 @@
+## [1.1.11](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.10...v1.1.11) (2021-09-09)
+
+
+### Bug Fixes
+
+* CoCreate.config directory, path, name and  public ([4432cec](https://github.com/CoCreate-app/CoCreate-social-share/commit/4432ceccadbcef8f865d407cd561f59d7556312b))
+
 ## [1.1.10](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.9...v1.1.10) (2021-09-08)
 
 
