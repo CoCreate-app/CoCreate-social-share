@@ -1,6 +1,6 @@
 {
   "name": "@cocreate/social-share",
-  "version": "1.1.13",
+  "version": "1.1.14",
   "description": "A simple social-share component in vanilla javascript. Easily configured using HTML5 data-attributes and/or JavaScript API.",
   "keywords": [
     "social-share",
