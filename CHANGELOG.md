@@ -1,3 +1,10 @@
+## [1.1.15](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.14...v1.1.15) (2021-09-12)
+
+
+### Bug Fixes
+
+* update sidenav to use resize and toggle ([ef7e6f7](https://github.com/CoCreate-app/CoCreate-social-share/commit/ef7e6f7cbe6fdf4d333145fb87532028d96bb661))
+
 ## [1.1.14](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.13...v1.1.14) (2021-09-09)
 
 
