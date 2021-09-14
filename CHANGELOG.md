@@ -1,3 +1,10 @@
+## [1.1.17](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.16...v1.1.17) (2021-09-14)
+
+
+### Bug Fixes
+
+* add cocreate.app to domains ([b632bd3](https://github.com/CoCreate-app/CoCreate-social-share/commit/b632bd3405e7159fd71f0853489eed3978379df3))
+
 ## [1.1.16](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.15...v1.1.16) (2021-09-13)
 
 
