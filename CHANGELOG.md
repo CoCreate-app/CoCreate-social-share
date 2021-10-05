@@ -1,3 +1,11 @@
+## [1.1.24](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.23...v1.1.24) (2021-10-05)
+
+
+### Bug Fixes
+
+* update dependencies ([630dded](https://github.com/CoCreate-app/CoCreate-social-share/commit/630dded308ee3c852bd4fada55bbe9d0be3260d7))
+* website_id in CoCreate.config ([ab5da1e](https://github.com/CoCreate-app/CoCreate-social-share/commit/ab5da1ea9727f90b6ccad028aeb70fa77997b146))
+
 ## [1.1.23](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.22...v1.1.23) (2021-10-04)
 
 
