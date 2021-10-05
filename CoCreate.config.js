@@ -4,13 +4,13 @@ module.exports = {
         "organization_Id": "5ff747727005da1c272740ab",
         "host": "general.cocreate.app"
     },
-    
-    "sources": [{
+    "sources": [
+        {
             "entry": "./docs/index.html",
             "collection": "files",
             "document_id": "6011fda120b8221182666b50",
             "key": "src",
-            "data":{
+            "data": {
                 "name": "index.html",
                 "path": "/docs/social-share/index.html",
                 "domains": [
@@ -20,24 +20,8 @@ module.exports = {
                 "directory": "/docs/social-share",
                 "content-type": "text/html",
                 "public": "true",
-                "website_id": "614298c2829b690010a5c031"
+                "website_id": "5ffbceb7f11d2d00103c4535"
             }
         }
-    ],
-
-	"extract": {
-		"directory": "./src/",
-		"extensions": [
-			"js",
-			"css",
-			"html"
-		],
-		"ignores": [
-			"node_modules",
-			"vendor",
-			"bower_components",
-			"archive"
-		]
-	}
+    ]
 }
-
