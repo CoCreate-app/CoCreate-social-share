@@ -1,3 +1,10 @@
+## [1.1.31](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.30...v1.1.31) (2021-10-16)
+
+
+### Bug Fixes
+
+* update socket package to fix bug in docs ([2098904](https://github.com/CoCreate-app/CoCreate-social-share/commit/209890427fdb6ed78049e2d6f6cb0f5ad3663561))
+
 ## [1.1.30](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.29...v1.1.30) (2021-10-15)
 
 
