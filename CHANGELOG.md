@@ -1,3 +1,10 @@
+## [1.1.42](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.41...v1.1.42) (2021-11-19)
+
+
+### Bug Fixes
+
+* update dependencies ([8ec76ec](https://github.com/CoCreate-app/CoCreate-social-share/commit/8ec76ec42178af4fd3f9c469e96db07a424fbd45))
+
 ## [1.1.41](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.40...v1.1.41) (2021-11-18)
 
 
