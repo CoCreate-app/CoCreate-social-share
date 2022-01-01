@@ -35,7 +35,7 @@ const getData = (el, document, container) => {
     if(provider == '') provider = container.getAttribute('share-provider') || '';
     provider = encodeURIComponent((provider=='') ? '' : provider);
 
-    // Get url from "data-url" attribute
+    // Get url from "share-url" attribute
     let source = encodeURIComponent(document.URL);
 
     return {
