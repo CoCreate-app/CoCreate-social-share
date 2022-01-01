@@ -1,3 +1,10 @@
+## [1.1.53](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.52...v1.1.53) (2022-01-01)
+
+
+### Bug Fixes
+
+* get-value attribute value now supports a selector added # to all values currently in get-value attributes ([db22864](https://github.com/CoCreate-app/CoCreate-social-share/commit/db22864dd9b38b001b8a979c8524903d9ded5120))
+
 ## [1.1.52](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.51...v1.1.52) (2022-01-01)
 
 
