@@ -1,3 +1,10 @@
+## [1.1.52](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.51...v1.1.52) (2022-01-01)
+
+
+### Bug Fixes
+
+* removed data- from attributes ([413f7a0](https://github.com/CoCreate-app/CoCreate-social-share/commit/413f7a0e8b2e1d0094e13014bf93408d71f73369))
+
 ## [1.1.51](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.50...v1.1.51) (2021-12-15)
 
 
