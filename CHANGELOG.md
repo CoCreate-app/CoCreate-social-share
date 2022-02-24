@@ -1,3 +1,10 @@
+## [1.1.59](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.58...v1.1.59) (2022-02-24)
+
+
+### Bug Fixes
+
+* CoCreate.config replace CoCreate.app with * ([0adfddb](https://github.com/CoCreate-app/CoCreate-social-share/commit/0adfddbae4556c31e687b41f925186b418c6c9b6))
+
 ## [1.1.58](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.57...v1.1.58) (2022-02-16)
 
 
