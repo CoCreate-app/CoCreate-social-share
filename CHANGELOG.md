@@ -1,3 +1,10 @@
+## [1.1.60](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.59...v1.1.60) (2022-05-06)
+
+
+### Bug Fixes
+
+* update config organization_Id to organization_id ([1c2a330](https://github.com/CoCreate-app/CoCreate-social-share/commit/1c2a33076820904bf025e74d656feeaef29c00cf))
+
 ## [1.1.59](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.58...v1.1.59) (2022-02-24)
 
 
