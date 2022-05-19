@@ -1,3 +1,10 @@
+## [1.1.61](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.60...v1.1.61) (2022-05-19)
+
+
+### Bug Fixes
+
+* update document_id on link index.css ([36d7106](https://github.com/CoCreate-app/CoCreate-social-share/commit/36d71069cf933b379220dd1c7035451bc5de7279))
+
 ## [1.1.60](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.59...v1.1.60) (2022-05-06)
 
 
