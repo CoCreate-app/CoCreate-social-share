@@ -1,3 +1,10 @@
+## [1.1.66](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.65...v1.1.66) (2022-09-29)
+
+
+### Bug Fixes
+
+* config renameed to CoCreateConfig ([c106139](https://github.com/CoCreate-app/CoCreate-social-share/commit/c106139726cea5b09c4ff6324375da5b6d6cd4c7))
+
 ## [1.1.65](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.64...v1.1.65) (2022-09-01)
 
 
