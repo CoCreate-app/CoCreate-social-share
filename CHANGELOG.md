@@ -1,3 +1,10 @@
+## [1.1.73](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.72...v1.1.73) (2022-10-02)
+
+
+### Bug Fixes
+
+* bump @cocreate/hosting and @cocreate/socket-client ([75d411e](https://github.com/CoCreate-app/CoCreate-social-share/commit/75d411efc7f12e7131f65c99e459d618a6abb331))
+
 ## [1.1.72](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.71...v1.1.72) (2022-10-01)
 
 
