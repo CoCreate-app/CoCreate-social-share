@@ -10,7 +10,7 @@ module.exports = {
             "collection": "files",
             "document_id": "6011fda120b8221182666b50",
             "key": "src",
-            "data": {
+            "document": {
                 "name": "index.html",
                 "path": "/docs/social-share/index.html",
                 "domains": [
