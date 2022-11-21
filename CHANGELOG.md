@@ -1,3 +1,10 @@
+## [1.1.77](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.76...v1.1.77) (2022-11-21)
+
+
+### Bug Fixes
+
+* replaced document_id with document._id ([8b2293f](https://github.com/CoCreate-app/CoCreate-social-share/commit/8b2293f7a3a828eeaeb6e6712232723d23b25354))
+
 ## [1.1.76](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.75...v1.1.76) (2022-11-21)
 
 
