@@ -1,3 +1,11 @@
+## [1.1.79](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.78...v1.1.79) (2022-11-22)
+
+
+### Bug Fixes
+
+* apply src: {{source}} to CoCreate.config ([14f1fde](https://github.com/CoCreate-app/CoCreate-social-share/commit/14f1fde9bb8d795d2b1822fccea99b19c017c68d))
+* workflow docs ([3b23ef6](https://github.com/CoCreate-app/CoCreate-social-share/commit/3b23ef658bcebe6fd55ad73d2319c4927071771f))
+
 ## [1.1.78](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.77...v1.1.78) (2022-11-21)
 
 
