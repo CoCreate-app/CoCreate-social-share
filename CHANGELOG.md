@@ -1,3 +1,10 @@
+## [1.1.95](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.94...v1.1.95) (2022-12-13)
+
+
+### Bug Fixes
+
+* removed un used devDependencies ([f14dd1b](https://github.com/CoCreate-app/CoCreate-social-share/commit/f14dd1b8083f7d1a4c264f3fee9aacc98580fd25))
+
 ## [1.1.94](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.93...v1.1.94) (2022-12-13)
 
 
