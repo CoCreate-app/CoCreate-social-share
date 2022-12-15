@@ -1,3 +1,10 @@
+## [1.1.96](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.95...v1.1.96) (2022-12-15)
+
+
+### Bug Fixes
+
+* add missing dev dependency style-loader ([97a0b6e](https://github.com/CoCreate-app/CoCreate-social-share/commit/97a0b6e901ea91fd0c90b90bcf7a02f7f0aa4907))
+
 ## [1.1.95](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.94...v1.1.95) (2022-12-13)
 
 
