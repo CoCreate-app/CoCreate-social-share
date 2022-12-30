@@ -1,3 +1,10 @@
+## [1.1.105](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.104...v1.1.105) (2022-12-30)
+
+
+### Bug Fixes
+
+* update config sources to use template  braces with entry on src ([34d50ef](https://github.com/CoCreate-app/CoCreate-social-share/commit/34d50ef160e90b626d04c6fa31895dbbd3db0193))
+
 ## [1.1.104](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.103...v1.1.104) (2022-12-29)
 
 
