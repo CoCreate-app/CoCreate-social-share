@@ -1,3 +1,10 @@
+## [1.1.107](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.106...v1.1.107) (2023-01-01)
+
+
+### Bug Fixes
+
+* docs sanbox overflow ([8ce935e](https://github.com/CoCreate-app/CoCreate-social-share/commit/8ce935e1454deb213068dd5007757bf6d91acf48))
+
 ## [1.1.106](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.105...v1.1.106) (2022-12-31)
 
 
