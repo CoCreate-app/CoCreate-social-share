@@ -1,3 +1,11 @@
+## [1.1.108](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.107...v1.1.108) (2023-01-05)
+
+
+### Bug Fixes
+
+* bump cdn to 1.39.4 ([2a8e774](https://github.com/CoCreate-app/CoCreate-social-share/commit/2a8e7748a1436f1e40f7f000e69f89829b6d8b05))
+* bump dependencies ([5394080](https://github.com/CoCreate-app/CoCreate-social-share/commit/5394080f3c97f5b6427b21801138198e2f1e73b0))
+
 ## [1.1.107](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.106...v1.1.107) (2023-01-01)
 
 
