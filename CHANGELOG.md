@@ -1,3 +1,11 @@
+## [1.1.109](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.108...v1.1.109) (2023-01-06)
+
+
+### Bug Fixes
+
+* bump dependencies, worklow [@v3](https://github.com/v3) ([c59ba9b](https://github.com/CoCreate-app/CoCreate-social-share/commit/c59ba9b706ffbc78ca1c5df8b20fc169acd2812a))
+* edit in github btn styles ([d1d3c94](https://github.com/CoCreate-app/CoCreate-social-share/commit/d1d3c94d6698306218948f12ec938bdec3b7f172))
+
 ## [1.1.108](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.107...v1.1.108) (2023-01-05)
 
 
