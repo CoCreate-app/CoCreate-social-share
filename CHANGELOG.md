@@ -1,3 +1,10 @@
+## [1.1.116](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.115...v1.1.116) (2023-01-31)
+
+
+### Bug Fixes
+
+* bump dependencies ([b75ef25](https://github.com/CoCreate-app/CoCreate-social-share/commit/b75ef2521f32f07b7f86168c532128913de709ad))
+
 ## [1.1.115](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.114...v1.1.115) (2023-01-30)
 
 
