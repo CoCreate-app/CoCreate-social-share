@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.117...v1.2.0) (2023-03-16)
+
+
+### Features
+
+* replaced get-value and set-value with a super charged version of CoCreate-events ([47d461c](https://github.com/CoCreate-app/CoCreate-social-share/commit/47d461ce89db16bae8851a9f741378d65072ec7c))
+
 ## [1.1.117](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.1.116...v1.1.117) (2023-02-01)
 
 
