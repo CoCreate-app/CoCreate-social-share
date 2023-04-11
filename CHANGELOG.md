@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.2.3...v1.2.4) (2023-04-11)
+
+
+### Bug Fixes
+
+* renamed domains to hosts ([a848cc1](https://github.com/CoCreate-app/CoCreate-social-share/commit/a848cc168fb19fe6f749cf79288a65ea705a3d85))
+
 ## [1.2.3](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.2.2...v1.2.3) (2023-03-30)
 
 
