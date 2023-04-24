@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.2.6...v1.3.0) (2023-04-24)
+
+
+### Features
+
+* added pwa manifest ([589cd8a](https://github.com/CoCreate-app/CoCreate-social-share/commit/589cd8a3c526539b84a02d97fa047e37cfa4c390))
+
 ## [1.2.6](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.2.5...v1.2.6) (2023-04-11)
 
 
