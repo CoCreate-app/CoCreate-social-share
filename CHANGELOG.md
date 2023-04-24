@@ -1,3 +1,11 @@
+## [1.3.3](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.2...v1.3.3) (2023-04-24)
+
+
+### Bug Fixes
+
+* updated worrkflows to v3 and node version 16 ([e97fdf3](https://github.com/CoCreate-app/CoCreate-social-share/commit/e97fdf34a3c84ae0de8cd9f33df44703b8f8aa8d))
+* workflow node version updated  16 ([211c031](https://github.com/CoCreate-app/CoCreate-social-share/commit/211c031ebbbb26399be0b18afb6fbe96599fef68))
+
 ## [1.3.2](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.1...v1.3.2) (2023-04-24)
 
 
