@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.0...v1.3.1) (2023-04-24)
+
+
+### Bug Fixes
+
+* removed uglifyjs-webpack-plugin ([3105bb6](https://github.com/CoCreate-app/CoCreate-social-share/commit/3105bb6925be61d773364e3829b1cd2f5ece3037))
+
 # [1.3.0](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.2.6...v1.3.0) (2023-04-24)
 
 
