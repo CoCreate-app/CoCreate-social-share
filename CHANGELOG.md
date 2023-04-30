@@ -1,3 +1,12 @@
+## [1.3.4](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.3...v1.3.4) (2023-04-30)
+
+
+### Bug Fixes
+
+* fullscreen target updated to fullscreen fullscreen-target ([1c58c23](https://github.com/CoCreate-app/CoCreate-social-share/commit/1c58c23b2bcacde4e1684469055f00af6240db14))
+* package-lock.json and pnpm-lock.yaml added to .gitignore ([fefa986](https://github.com/CoCreate-app/CoCreate-social-share/commit/fefa9866353ac45de6474d00b9221e99a3996ac9))
+* removed toogle fullscreen icons. now using css content ([8e7029b](https://github.com/CoCreate-app/CoCreate-social-share/commit/8e7029b4051577e1e61cfba286d3701d0918c72b))
+
 ## [1.3.3](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.2...v1.3.3) (2023-04-24)
 
 
