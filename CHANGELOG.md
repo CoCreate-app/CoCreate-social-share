@@ -1,3 +1,10 @@
+## [1.3.5](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.4...v1.3.5) (2023-05-01)
+
+
+### Bug Fixes
+
+* replace fontawesome with svg ([d68e8c6](https://github.com/CoCreate-app/CoCreate-social-share/commit/d68e8c688f4fe7ae2615b5ac9f02da6bda655e90))
+
 ## [1.3.4](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.3...v1.3.4) (2023-04-30)
 
 
