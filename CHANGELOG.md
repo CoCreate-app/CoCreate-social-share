@@ -1,3 +1,10 @@
+## [1.3.6](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.5...v1.3.6) (2023-05-01)
+
+
+### Bug Fixes
+
+* update manifest.json to manifest.webmanifest ([9170839](https://github.com/CoCreate-app/CoCreate-social-share/commit/9170839096d1a58ff4a9eb426ca291b57aa11963))
+
 ## [1.3.5](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.4...v1.3.5) (2023-05-01)
 
 
