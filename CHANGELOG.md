@@ -1,3 +1,10 @@
+## [1.3.8](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.7...v1.3.8) (2023-05-10)
+
+
+### Bug Fixes
+
+* apikey renamed to key ([71e2381](https://github.com/CoCreate-app/CoCreate-social-share/commit/71e238179c797841902a95f1230ae708d200b2a3))
+
 ## [1.3.7](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.6...v1.3.7) (2023-05-06)
 
 
