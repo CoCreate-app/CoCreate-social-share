@@ -1,3 +1,10 @@
+## [1.3.9](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.8...v1.3.9) (2023-05-19)
+
+
+### Bug Fixes
+
+* update packages to latest version. This commit updates various packages in the dependencies section of the package.json file to their latest published versions, thereby fixing multiple bugs and improving overall performance. ([6561b6f](https://github.com/CoCreate-app/CoCreate-social-share/commit/6561b6fd29672c7193687d359130701505df5e50))
+
 ## [1.3.8](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.7...v1.3.8) (2023-05-10)
 
 
