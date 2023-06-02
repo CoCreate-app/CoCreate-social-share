@@ -1,3 +1,10 @@
+## [1.3.11](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.10...v1.3.11) (2023-06-02)
+
+
+### Bug Fixes
+
+* format demo html ([fdeadf1](https://github.com/CoCreate-app/CoCreate-social-share/commit/fdeadf113911dedaa29baacd9a0ee9c3a977f711))
+
 ## [1.3.10](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.9...v1.3.10) (2023-05-21)
 
 
