@@ -1,3 +1,11 @@
+## [1.3.13](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.12...v1.3.13) (2023-06-04)
+
+
+### Bug Fixes
+
+* replaced secert GITHUB_TOKEN with GITHUB ([62e8e75](https://github.com/CoCreate-app/CoCreate-social-share/commit/62e8e757f5197f2402ef436e72795ac980eade68))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([bb8293f](https://github.com/CoCreate-app/CoCreate-social-share/commit/bb8293fe5bd4f9aa1e4e6ecab6c1763ebe406d5f))
+
 ## [1.3.12](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.11...v1.3.12) (2023-06-04)
 
 
