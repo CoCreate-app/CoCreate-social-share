@@ -1,3 +1,10 @@
+## [1.3.14](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.13...v1.3.14) (2023-06-04)
+
+
+### Bug Fixes
+
+* Refactor CoCreate.config.js to remove hard-coded credentials ([59c4ccf](https://github.com/CoCreate-app/CoCreate-social-share/commit/59c4ccfcd4acd6f41f8ffc552ed28d694527eddc))
+
 ## [1.3.13](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.12...v1.3.13) (2023-06-04)
 
 
