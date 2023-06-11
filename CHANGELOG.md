@@ -1,3 +1,10 @@
+## [1.3.16](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.15...v1.3.16) (2023-06-11)
+
+
+### Bug Fixes
+
+* renamed hosts to host. the value can be a string or an array of strings ([abba060](https://github.com/CoCreate-app/CoCreate-social-share/commit/abba0607f6993ce6b4d02c8cded192763e53b40f))
+
 ## [1.3.15](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.14...v1.3.15) (2023-06-10)
 
 
