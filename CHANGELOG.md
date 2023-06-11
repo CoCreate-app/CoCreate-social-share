@@ -1,3 +1,10 @@
+## [1.3.21](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.20...v1.3.21) (2023-06-11)
+
+
+### Bug Fixes
+
+* testing workflow ([55ddc10](https://github.com/CoCreate-app/CoCreate-social-share/commit/55ddc10de6222561af8bb094bce4f0592128da4b))
+
 ## [1.3.20](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.19...v1.3.20) (2023-06-11)
 
 
