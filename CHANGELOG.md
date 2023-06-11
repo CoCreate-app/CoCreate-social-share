@@ -1,3 +1,10 @@
+## [1.3.19](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.18...v1.3.19) (2023-06-11)
+
+
+### Bug Fixes
+
+* postintall error ([8df7377](https://github.com/CoCreate-app/CoCreate-social-share/commit/8df73776f33852aaaf3ae6b50de10276f15e8dc6))
+
 ## [1.3.18](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.17...v1.3.18) (2023-06-11)
 
 
