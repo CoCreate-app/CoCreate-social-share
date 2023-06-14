@@ -1,3 +1,10 @@
+## [1.3.27](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.26...v1.3.27) (2023-06-14)
+
+
+### Bug Fixes
+
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([0423116](https://github.com/CoCreate-app/CoCreate-social-share/commit/0423116a1b09b36a912480464db3c1073658cc07))
+
 ## [1.3.26](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.25...v1.3.26) (2023-06-11)
 
 
