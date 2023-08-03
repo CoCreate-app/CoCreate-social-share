@@ -4,8 +4,8 @@ module.exports = {
     "host": "",
     "sources": [
         {
-            "collection": "files",
-            "document": {
+            "array": "files",
+            "object": {
                 "_id": "6011fda120b8221182666b50",
                 "name": "index.html",
                 "path": "/docs/social-share/index.html",
