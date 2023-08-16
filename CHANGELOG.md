@@ -1,3 +1,17 @@
+# [1.4.0](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.27...v1.4.0) (2023-08-16)
+
+
+### Bug Fixes
+
+* crud attributes renamed ([9561a09](https://github.com/CoCreate-app/CoCreate-social-share/commit/9561a09db2f4386fbb5273d7f7bbb7f1891243c4))
+* replace -target -selector ([1cba64a](https://github.com/CoCreate-app/CoCreate-social-share/commit/1cba64a3ccc7eb2101380b0815417a7daa7e7ca0))
+* webpack.config and package.json make use of mode=production instead of process.env ([8c8d7f5](https://github.com/CoCreate-app/CoCreate-social-share/commit/8c8d7f5004367141786f569f2122d70e9655a27d))
+
+
+### Features
+
+* name attribute and variable renamed to key ([875f9e8](https://github.com/CoCreate-app/CoCreate-social-share/commit/875f9e80e1dc51b1aca52728bbd3746892be7d88))
+
 ## [1.3.27](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.26...v1.3.27) (2023-06-14)
 
 
