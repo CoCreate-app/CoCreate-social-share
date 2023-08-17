@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.4.0...v1.5.0) (2023-08-17)
+
+
+### Features
+
+* bump cocreate dependencies for the latest updates and features ([b16c13a](https://github.com/CoCreate-app/CoCreate-social-share/commit/b16c13aa2c941b2742de8f83b32348c3b21975b8))
+
 # [1.4.0](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.3.27...v1.4.0) (2023-08-16)
 
 
