@@ -1,3 +1,12 @@
+## [1.5.1](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.5.0...v1.5.1) (2023-08-21)
+
+
+### Bug Fixes
+
+* /dist/CoCreate.js updated to https://CoCreate.app/dist/CoCreate.js ([2d95bf8](https://github.com/CoCreate-app/CoCreate-social-share/commit/2d95bf80b7badb011c80fc3225a157bd31e20b62))
+* replace cdn with /dist ([f022e01](https://github.com/CoCreate-app/CoCreate-social-share/commit/f022e01c41cb589a210628eb8b2a4f281c945af0))
+* update file uploader ([a80cea0](https://github.com/CoCreate-app/CoCreate-social-share/commit/a80cea0dbbf1a250d18e7accfcaeb21011178436))
+
 # [1.5.0](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.4.0...v1.5.0) (2023-08-17)
 
 
