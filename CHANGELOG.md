@@ -1,3 +1,11 @@
+## [1.6.2](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.6.1...v1.6.2) (2023-09-18)
+
+
+### Bug Fixes
+
+*  Add path and pathname ([b4758e2](https://github.com/CoCreate-app/CoCreate-social-share/commit/b4758e278ba7e3a9a1f44873c8edac9000d3bf2a))
+* Update CoCreate depndencies to latest versions ([08d22ca](https://github.com/CoCreate-app/CoCreate-social-share/commit/08d22ca169f1e9f0b2546fd14d3028e5732917f2))
+
 ## [1.6.1](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.6.0...v1.6.1) (2023-08-21)
 
 
