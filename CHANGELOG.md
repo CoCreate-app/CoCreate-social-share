@@ -1,3 +1,10 @@
+## [1.6.3](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.6.2...v1.6.3) (2023-11-03)
+
+
+### Bug Fixes
+
+* favicon.ico path ([38632a9](https://github.com/CoCreate-app/CoCreate-social-share/commit/38632a9a96cd17bb8bb96fc68c955a1228edbe7d))
+
 ## [1.6.2](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.6.1...v1.6.2) (2023-09-18)
 
 
