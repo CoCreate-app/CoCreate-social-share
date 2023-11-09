@@ -1,3 +1,11 @@
+## [1.6.4](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.6.3...v1.6.4) (2023-11-09)
+
+
+### Bug Fixes
+
+* meta name typo ([d34fc49](https://github.com/CoCreate-app/CoCreate-social-share/commit/d34fc494030b505a4c54fa39a919c40f0d896b3d))
+* update host ([bd742ef](https://github.com/CoCreate-app/CoCreate-social-share/commit/bd742ef1a354bb6997fafe2e013b02c3072e7dca))
+
 ## [1.6.3](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.6.2...v1.6.3) (2023-11-03)
 
 
