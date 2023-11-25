@@ -1,3 +1,15 @@
+# [1.8.0](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.7.0...v1.8.0) (2023-11-25)
+
+
+### Bug Fixes
+
+* update nav, edit button and css path ([aebbaa1](https://github.com/CoCreate-app/CoCreate-social-share/commit/aebbaa1e8066d1b70ec75e97427dbad173131622))
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([d915923](https://github.com/CoCreate-app/CoCreate-social-share/commit/d915923f2cd6cdb810a3b091dd0b9600f280bfb8))
+
 # [1.7.0](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.6.5...v1.7.0) (2023-11-19)
 
 
