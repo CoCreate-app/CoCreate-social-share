@@ -1,3 +1,10 @@
+## [1.9.1](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.9.0...v1.9.1) (2024-02-05)
+
+
+### Bug Fixes
+
+* Removed https://cdn.cocreate.app/latest/CoCreate.min.css ([5b1c559](https://github.com/CoCreate-app/CoCreate-social-share/commit/5b1c559e5f2a9734412ac505b1f182ad462ac3ee))
+
 # [1.9.0](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.8.0...v1.9.0) (2023-11-25)
 
 
