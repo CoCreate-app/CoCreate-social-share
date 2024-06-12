@@ -1,3 +1,11 @@
+## [1.9.3](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.9.2...v1.9.3) (2024-06-12)
+
+
+### Bug Fixes
+
+* bump cocreate dependencies ([7d4586e](https://github.com/CoCreate-app/CoCreate-social-share/commit/7d4586e9d0d3be9f32daa21577bc91160b251e07))
+* svg icon class ([a1131c4](https://github.com/CoCreate-app/CoCreate-social-share/commit/a1131c4df781d095c79d9de48c084e35b6d7a008))
+
 ## [1.9.2](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.9.1...v1.9.2) (2024-04-29)
 
 
