@@ -1,3 +1,18 @@
+# [1.10.0](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.9.3...v1.10.0) (2024-08-24)
+
+
+### Bug Fixes
+
+* formating ([c88ff22](https://github.com/CoCreate-app/CoCreate-social-share/commit/c88ff221271b36af4655da5ea147c624bc1b5f8e))
+* removed share-network="true" on parent container ([9913c1e](https://github.com/CoCreate-app/CoCreate-social-share/commit/9913c1ea8c7c79374107b972954f279373fdac9a))
+* update selectorDiv selectors ([68d9b40](https://github.com/CoCreate-app/CoCreate-social-share/commit/68d9b40a8cdd338740eb461b97bd6859c327fbe1))
+* urIEncodeing ([f137869](https://github.com/CoCreate-app/CoCreate-social-share/commit/f1378691a029602a64339db993701926e0fc1a63))
+
+
+### Features
+
+* network defined in netorks directory ([02205eb](https://github.com/CoCreate-app/CoCreate-social-share/commit/02205eb116851372662228fdc53baecd78599d2a))
+
 ## [1.9.3](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.9.2...v1.9.3) (2024-06-12)
 
 
