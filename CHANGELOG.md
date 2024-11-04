@@ -1,3 +1,16 @@
+# [1.11.0](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.10.0...v1.11.0) (2024-11-04)
+
+
+### Bug Fixes
+
+* pretier.config.js and file formating ([4e3a635](https://github.com/CoCreate-app/CoCreate-social-share/commit/4e3a6351333345b53b363e46dc0bb835b6a967d7))
+
+
+### Features
+
+* add prettier.config.js and format files ([927d88a](https://github.com/CoCreate-app/CoCreate-social-share/commit/927d88adfbd178661f7c9c8b40daf994a118f5f5))
+* add prettier.config.js and format files ([2e596fa](https://github.com/CoCreate-app/CoCreate-social-share/commit/2e596fab833c940178916df2facbf79f8a053d70))
+
 # [1.10.0](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.9.3...v1.10.0) (2024-08-24)
 
 
