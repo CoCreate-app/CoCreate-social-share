@@ -1,3 +1,13 @@
+## [1.11.1](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.11.0...v1.11.1) (2025-04-30)
+
+
+### Bug Fixes
+
+* added css-loader ([7057b82](https://github.com/CoCreate-app/CoCreate-social-share/commit/7057b8211bc9f818ebea555df23689d48391528e))
+* update query attributes ([630fe40](https://github.com/CoCreate-app/CoCreate-social-share/commit/630fe408e3ef5b64479f8ae29228497bd9a25731))
+* updated cocreate modules versions ([93f2544](https://github.com/CoCreate-app/CoCreate-social-share/commit/93f2544ec7396e3ce95d51489ecd9a7b351fbaa7))
+* webpack.config and devdependencies ([e9459de](https://github.com/CoCreate-app/CoCreate-social-share/commit/e9459decb31a52fb875ed95784290e1c35c47a1b))
+
 # [1.11.0](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.10.0...v1.11.0) (2024-11-04)
 
 
