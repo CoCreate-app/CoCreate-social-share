@@ -1,3 +1,10 @@
+## [1.11.3](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.11.2...v1.11.3) (2026-02-04)
+
+
+### Bug Fixes
+
+* update worklow ([ecd37c2](https://github.com/CoCreate-app/CoCreate-social-share/commit/ecd37c298daf9a57a644b0ebe9a10f32413dafec))
+
 ## [1.11.2](https://github.com/CoCreate-app/CoCreate-social-share/compare/v1.11.1...v1.11.2) (2025-05-01)
 
 
